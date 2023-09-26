@@ -97,7 +97,8 @@ nav {
 }
 
 .hero {
-  padding-top: 100px;
+    padding-top: 190px;
+    padding-left: 130px;
 }
 h1 {
     margin: 0 auto;
@@ -357,5 +358,6 @@ h1 {
     }
     .nav-links {
       gap: 75px;
+      padding-right: 256px;
     }
   }
