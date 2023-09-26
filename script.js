@@ -13,7 +13,7 @@ openNavToggle.addEventListener("click", () => {
 });
 
 closeNavToggle.addEventListener("click", () => {
-    navLinks.classList.remove('hidden');
+    navLinks.classList.add('hidden');
     navbar.classList.toggle('navbar-active');
     openNavToggle.style.display = 'inline-block';
     closeNavToggle.style.display = 'none';
