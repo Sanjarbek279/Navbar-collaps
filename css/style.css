@@ -97,8 +97,8 @@ nav {
 }
 
 .hero {
-    padding-top: 190px;
-    padding-left: 130px;
+  padding-top: 190px;
+ 
 }
 h1 {
     margin: 0 auto;
@@ -272,6 +272,7 @@ h1 {
       gap: 20px;
       flex-direction: row;
     }
+   
     .birinchi {
       margin-top: 71px;
       display: flex;
@@ -328,6 +329,9 @@ h1 {
       line-height: 109%; 
       width: 608px;
       text-align: start;
+    }
+     .hero{
+      padding-left: 100px;
     }
   
     .hero-top button {
